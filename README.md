@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="pixel city" src="https://media.tenor.com/FIlAXMHf8vsAAAAd/naruto-background.gif" style="width:100%"/>
+    <img alt="pixel city" src="https://media.tenor.com/FIlAXMHf8vsAAAAd/naruto-background.gif" style="height: 200px"/>
 </p>
 
 # 🐊About me
