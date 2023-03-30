@@ -3,12 +3,12 @@
 </p>
 
 # 🐊About me
-To ficando maluco
+I'm a Computer Science Student and Developer Intern at OPCTEC. 
 
 ## 🌐Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-do-prado-belone) 
 
-# 💻 Shenanigans
+# 💻 Tech Shenanigans
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
