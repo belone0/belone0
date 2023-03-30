@@ -6,13 +6,16 @@
     <h1>
         🐊About me🐊
     </h1>
-Hey! I'm belone, a Computer Science Student and Developer Intern from Brazil 
+Hey! I'm belone, a Computer Science Student and Developer Intern from 🇧🇷Brazil!
 </div>
 
-
-## 🌐Social
+<div align="center">
+    <h3>
+        🌐Social
+    </h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-pedro-do-prado-belone-946bab232?trk=people-guest_people_search-card) 
-
+    </div>
+    
 # 💻 Tech Shenanigans
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
