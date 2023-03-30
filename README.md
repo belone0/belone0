@@ -2,10 +2,10 @@
     <img alt="pixel city" src="https://thumbs.gfycat.com/GrimDescriptiveChihuahua-max-1mb.gif"/>
 </p>
 
-<p align="center">
-    # 🐊About me
-    Hey! I'm belone, a Computer Science Student and Developer Intern from Brazil 
-</p>
+
+# 🐊About me
+Hey! I'm belone, a Computer Science Student and Developer Intern from Brazil 
+
 ## 🌐Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-pedro-do-prado-belone-946bab232?trk=people-guest_people_search-card) 
 
