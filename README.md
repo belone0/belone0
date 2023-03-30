@@ -1,12 +1,14 @@
+## Hey, I'm belone
+
 <p align="center">
     <img alt="pixel city" src="https://thumbs.gfycat.com/GrimDescriptiveChihuahua-max-1mb.gif"/>
 </p>
 
 <div align="center">
     <h1>
-        🐊About me🐊
+        About me
     </h1>
-Hey! I'm belone, a Computer Science Student and Developer Intern from 🇧🇷Brazil!
+Opa! I'm a Computer Science Student and Developer Intern from 🇧🇷Brazil!
 </div>
 
  ## 🌐Social
