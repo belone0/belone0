@@ -3,7 +3,9 @@
 </p>
 
 <div align="center">
-# 🐊About me
+    <h1>
+        🐊About me🐊
+    </h1>
 Hey! I'm belone, a Computer Science Student and Developer Intern from Brazil 
 </div>
 
