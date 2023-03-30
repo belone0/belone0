@@ -1,6 +1,7 @@
-<p>
+<p align="center">
     <img alt="pixel city" src="https://media.tenor.com/FIlAXMHf8vsAAAAd/naruto-background.gif" />
 </p>
+
 # 🐊About me
 To ficando maluco
 
