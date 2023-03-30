@@ -2,7 +2,7 @@
     <img alt="pixel city" src="https://thumbs.gfycat.com/GrimDescriptiveChihuahua-max-1mb.gif"/>
 </p>
 
-
+<div align="center"></div>
 # 🐊About me
 Hey! I'm belone, a Computer Science Student and Developer Intern from Brazil 
 
