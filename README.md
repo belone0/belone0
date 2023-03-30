@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="pixel city" src="https://thumbs.gfycat.com/GrimDescriptiveChihuahua-max-1mb.gif" style="height: 500px"/>
+    <img alt="pixel city" src="https://thumbs.gfycat.com/GrimDescriptiveChihuahua-max-1mb.gif"/>
 </p>
 
 # 🐊About me
