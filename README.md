@@ -6,7 +6,7 @@
     <h1>
         🍥About me
     </h1>
-Hey! I'm belone, a Computer Science Student and Developer Intern from 🇧🇷Brazil!
+Hey! I'm belone, a Computer Science Student and Developer Intern!
 </div>
 
  ## 🌐Social
