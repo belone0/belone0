@@ -6,7 +6,7 @@
     <h1>
         🍥About me
     </h1>
-Hey! I'm belone, a Computer Science Student and Developer Intern at @OPCTEC!
+Hey! I'm belone, a Computer Science Student and Developer Intern at OPCTEC!
 </div>
 
  ## 🌐Social
