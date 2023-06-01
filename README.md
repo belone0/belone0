@@ -10,7 +10,7 @@ Hey! I'm belone, a Computer Science Student and Developer Intern at OPCTEC!
 </div>
 
  ## 🌐Social
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-pedro-do-prado-belone-946bab232](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-pedro-do-prado-belone-946bab232)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-pedro-do-prado-belone-946bab232) 
 
     
 # 💻 Tech Shenanigans
