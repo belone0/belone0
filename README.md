@@ -10,7 +10,7 @@ Hey! I'm belone, a Computer Science Student and Developer Intern at OPCTEC!
 </div>
 
  ## 🌐Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-pedro-do-prado-belone-946bab232) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-pedro-do-prado-belone-946bab232](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-pedro-do-prado-belone-946bab232)) 
 
     
 # 💻 Tech Shenanigans
@@ -22,6 +22,7 @@ Hey! I'm belone, a Computer Science Student and Developer Intern at OPCTEC!
 <img src="https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
