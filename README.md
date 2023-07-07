@@ -3,7 +3,7 @@
 </p>
 <div align="center">
     <h1>
-        🍥Hey! this is
+        🍥About me
     </h1>
 Hey! I'm belone, a Computer Science Student and Developer at OPCTEC!
 </div>
