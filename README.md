@@ -1,9 +1,9 @@
-[//]: # (<p align="center">)
-[//]: # (<img alt="pixel city" src="https://thumbs.gfycat.com/GrimDescriptiveChihuahua-max-1mb.gif"/>)
-[//]: # (</p>)
+<p align="center">
+<img alt="pixel city" src="https://thumbs.gfycat.com/GrimDescriptiveChihuahua-max-1mb.gif"/>
+</p>
 <div align="center">
     <h1>
-        🍥About me
+        🍥Hey! this is
     </h1>
 Hey! I'm belone, a Computer Science Student and Developer at OPCTEC!
 </div>
