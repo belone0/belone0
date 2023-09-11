@@ -43,5 +43,3 @@ Hey! I'm belone, a Computer Science Student and Full Stack Developer
     </div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=belone0&show_icons=true&theme=gotham&hide_border=true" />
 </div>
-
----
