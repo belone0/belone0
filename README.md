@@ -7,7 +7,7 @@
     </h1>
 Hey! I'm belone, a Computer Science Student and Full Stack Developer
 
-Currently using bitbucket at work, so RIP my contributions
+<sub><sup>Currently using Bitbucket at work, so RIP my contributions</sup></sub>
 </div>
 
  ## 🌐Social
