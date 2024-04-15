@@ -1,6 +1,3 @@
-<p align="center">
-<!-- <img alt="pixel city" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e8efa45-7181-4344-a291-dbe42990db2b/dfygwen-0e448e8e-fe68-4b1d-a759-c6630f5c1ad3.jpg/v1/fill/w_1684,h_474,q_70,strp/8bit_ultrawide_mountain_scene_wallpaper_by_nevereverevr_dfygwen-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQxIiwicGF0aCI6IlwvZlwvMWU4ZWZhNDUtNzE4MS00MzQ0LWEyOTEtZGJlNDI5OTBkYjJiXC9kZnlnd2VuLTBlNDQ4ZThlLWZlNjgtNGIxZC1hNzU5LWM2NjMwZjVjMWFkMy5qcGciLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.KT4adawbce5kZtWNMjjLbzueir7tJ4_UtaBEKdJlCxM"/> -->
-</p>
 <div align="center">
     <h1>
         🍥About me
@@ -12,8 +9,9 @@ Hey! I'm belone, a Computer Science Student and Full Stack Developer
 
  ## 🌐Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-pedro-do-prado-belone-946bab232) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaobelone/)
     
-# 💻 Tech Shenanigans
+# 💻 Stack
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
