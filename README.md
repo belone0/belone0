@@ -4,7 +4,6 @@
     </h1>
 Hey! I'm belone, a Computer Science Student and Full Stack Developer
 <br></br>
-<sup>Currently using Bitbucket at work, so RIP my contributions</sup>
 </div>
 
  ## 🌐Social
