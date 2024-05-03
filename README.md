@@ -2,7 +2,7 @@
     <h1>
         🍥About me
     </h1>
-Hey! I'm belone, a Computer Science Student and Full Stack Developer currently studiying about Machine Learning and AI
+Hey! I'm belone, Computer Science Student and Full Stack Developer currently studiying about Machine Learning and AI
 <br></br>
 </div>
 
