@@ -2,13 +2,13 @@
     <h1>
         🍥About me
     </h1>
-Hey! I'm belone a very curious Software Engineer, always up to learning new stuff
-<br></br>
+Hey! I'm belone a very curious Software Engineer, always up to learning new stuff. 
+    <br></br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-pedro-do-prado-belone-946bab232) 
+
 </div>
 
- ## 🌐Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-pedro-do-prado-belone-946bab232) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaobelone/)
     
 # 💻 Stack
 <div>
@@ -69,8 +69,7 @@ Hey! I'm belone a very curious Software Engineer, always up to learning new stuf
 
 <div align="center">
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=belone0&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=belone0&show_icons=true&theme=gotham&hide_border=true" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belone0&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&layout=compact" />
     </div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=belone0&show_icons=true&theme=gotham&hide_border=true" />
 </div>
