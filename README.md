@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        🍥About me
+        🍊About me
     </h1>
 Hey! I'm belone, a very curious Software Engineer, always up to learning new stuff. 
     <br></br>
