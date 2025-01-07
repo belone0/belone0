@@ -2,7 +2,7 @@
     <h1>
         🍥About me
     </h1>
-Hey! I'm belone, Full Stack Engineer
+Hey! I'm belone a very curious Software Engineer, always up to learning new stuff
 <br></br>
 </div>
 
