@@ -24,6 +24,9 @@ Hey! I'm belone, a very curious Software Engineer, always up to learning new stu
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
 <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo">
 
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"alt="NestJS">
 
 <!-- Dart & Flutter -->
 <img src="https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
