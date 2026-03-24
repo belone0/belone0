@@ -1,4 +1,5 @@
 <div align="center">
+    <p>Commits are empty because I'm on Bitbucket now!</p>
     <h1>
         🍊About me
     </h1>
